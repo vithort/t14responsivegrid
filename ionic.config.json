@@ -1,0 +1,7 @@
+{
+  "name": "t14responsivegrid",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
